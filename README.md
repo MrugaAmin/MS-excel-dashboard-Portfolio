@@ -1,22 +1,23 @@
- Healthcare Revenue Dashboard
-
 ## Overview
-This project analyzes healthcare billing and payment data in Excel to support revenue tracking and reporting.
+This project analyzes messy retail transaction data and presents key business insights through Excel dashboards and pivot analysis.
 
 ## Objectives
-- Clean and standardize billing data
-- Analyze revenue by diagnosis
-- Analyze revenue by insurance provider
-- Track payment status (paid, pending, unpaid)
+- Clean raw retail data
+- Analyze revenue by region
+- Analyze profit by category
+- Measure discount impact
+- Track shipping delay
+- Identify loss-making orders
 
 ## Work Completed
-- Standardized dates and billing amount fields
-- Corrected inconsistent insurance and diagnosis labels
-- Built pivot tables for diagnosis and insurance analysis
-- Created dashboard with KPI-style summaries
+- Standardized product category names and payment methods
+- Corrected mixed date and discount formats
+- Built calculated columns for shipping delay and discount amount
+- Created summary pivots and dashboard visuals
 
 ## Key Outputs
-- Revenue by Diagnosis
-- Revenue by Insurance
-- Payment Status Summary
-- Dashboard overview
+- Revenue by Region
+- Profit by Category
+- Shipping Delay Days
+- Discount Amount by Category
+- Loss-Making Orders
