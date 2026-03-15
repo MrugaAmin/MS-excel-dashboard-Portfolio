@@ -1,22 +1,23 @@
-Mruga Amin – Excel Data Analytics Portfolio
+## Overview
+This project analyzes messy retail transaction data and presents key business insights through Excel dashboards and pivot analysis.
 
-I create clean, decision-ready Excel reports and dashboards from messy business data.
+## Objectives
+- Clean raw retail data
+- Analyze revenue by region
+- Analyze profit by category
+- Measure discount impact
+- Track shipping delay
+- Identify loss-making orders
 
-## Skills
-- Excel Data Cleaning
-- PDF to Excel Conversion
-- Pivot Tables
-- KPI Dashboards
-- Revenue and Profit Analysis
-- Healthcare and Retail Reporting
+## Work Completed
+- Standardized product category names and payment methods
+- Corrected mixed date and discount formats
+- Built calculated columns for shipping delay and discount amount
+- Created summary pivots and dashboard visuals
 
-## Projects
-
-### 1. Healthcare Revenue Dashboard
-
-### 2. PDF to Excel Sales Dashboard
-
-### 3. Superstore Retail Performance Dashboard
-
-## Contact
-- Email: mrugamin@gmail.com
+## Key Outputs
+- Revenue by Region
+- Profit by Category
+- Shipping Delay Days
+- Discount Amount by Category
+- Loss-Making Orders
