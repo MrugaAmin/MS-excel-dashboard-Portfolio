@@ -1,22 +1,22 @@
-Mruga Amin – Excel Data Analytics Portfolio
+ Healthcare Revenue Dashboard
 
-I create clean, decision-ready Excel reports and dashboards from messy business data.
+## Overview
+This project analyzes healthcare billing and payment data in Excel to support revenue tracking and reporting.
 
-## Skills
-- Excel Data Cleaning
-- PDF to Excel Conversion
-- Pivot Tables
-- KPI Dashboards
-- Revenue and Profit Analysis
-- Healthcare and Retail Reporting
+## Objectives
+- Clean and standardize billing data
+- Analyze revenue by diagnosis
+- Analyze revenue by insurance provider
+- Track payment status (paid, pending, unpaid)
 
-## Projects
+## Work Completed
+- Standardized dates and billing amount fields
+- Corrected inconsistent insurance and diagnosis labels
+- Built pivot tables for diagnosis and insurance analysis
+- Created dashboard with KPI-style summaries
 
-### 1. Healthcare Revenue Dashboard
-
-### 2. PDF to Excel Sales Dashboard
-
-### 3. Superstore Retail Performance Dashboard
-
-## Contact
-- Email: mrugamin@gmail.com
+## Key Outputs
+- Revenue by Diagnosis
+- Revenue by Insurance
+- Payment Status Summary
+- Dashboard overview
